@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="J'on Translator"
+run/main_scene="res://Scenes/JonTalk.tscn"
 config/icon="res://yobaicon_400x400.png"
 
 [display]
